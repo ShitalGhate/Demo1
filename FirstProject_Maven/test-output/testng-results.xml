@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16089" started-at="2022-06-06T15:51:53 IST" finished-at="2022-06-06T15:52:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16089" started-at="2022-06-06T15:51:53 IST" finished-at="2022-06-06T15:52:09 IST">
+      <class name="com.jbk.test.LoginTest">
+        <test-method status="PASS" signature="preBrowser()[pri:0, instance:com.jbk.test.LoginTest@480bdb19]" name="preBrowser" is-config="true" duration-ms="8855" started-at="2022-06-06T15:51:53 IST" finished-at="2022-06-06T15:52:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preBrowser -->
+        <test-method status="PASS" signature="verifyTitle()[pri:2, instance:com.jbk.test.LoginTest@480bdb19]" name="verifyTitle" duration-ms="38" started-at="2022-06-06T15:52:02 IST" finished-at="2022-06-06T15:52:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="verifySignInClickable()[pri:3, instance:com.jbk.test.LoginTest@480bdb19]" name="verifySignInClickable" duration-ms="551" started-at="2022-06-06T15:52:02 IST" finished-at="2022-06-06T15:52:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInClickable -->
+        <test-method status="PASS" signature="verifyBlankCredentials()[pri:4, instance:com.jbk.test.LoginTest@480bdb19]" name="verifyBlankCredentials" duration-ms="541" started-at="2022-06-06T15:52:02 IST" finished-at="2022-06-06T15:52:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBlankCredentials -->
+        <test-method status="PASS" signature="VerifySpecialCharacter()[pri:5, instance:com.jbk.test.LoginTest@480bdb19]" name="VerifySpecialCharacter" duration-ms="677" started-at="2022-06-06T15:52:03 IST" finished-at="2022-06-06T15:52:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySpecialCharacter -->
+        <test-method status="PASS" signature="verifyNewMemberRegistration()[pri:6, instance:com.jbk.test.LoginTest@480bdb19]" name="verifyNewMemberRegistration" duration-ms="410" started-at="2022-06-06T15:52:04 IST" finished-at="2022-06-06T15:52:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewMemberRegistration -->
+        <test-method status="PASS" signature="verifyAlreadyMember()[pri:7, instance:com.jbk.test.LoginTest@480bdb19]" name="verifyAlreadyMember" duration-ms="590" started-at="2022-06-06T15:52:04 IST" finished-at="2022-06-06T15:52:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlreadyMember -->
+        <test-method status="PASS" signature="verifyCorrectCredentials()[pri:8, instance:com.jbk.test.LoginTest@480bdb19]" name="verifyCorrectCredentials" duration-ms="1228" started-at="2022-06-06T15:52:05 IST" finished-at="2022-06-06T15:52:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCorrectCredentials -->
+        <test-method status="PASS" signature="verifyNavigationUser()[pri:9, instance:com.jbk.test.LoginTest@480bdb19]" name="verifyNavigationUser" duration-ms="598" started-at="2022-06-06T15:52:06 IST" finished-at="2022-06-06T15:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationUser -->
+        <test-method status="PASS" signature="verifyNavigationOperators()[pri:10, instance:com.jbk.test.LoginTest@480bdb19]" name="verifyNavigationOperators" duration-ms="498" started-at="2022-06-06T15:52:07 IST" finished-at="2022-06-06T15:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationOperators -->
+        <test-method status="PASS" signature="vefrifyNavigationUsefulLinks()[pri:11, instance:com.jbk.test.LoginTest@480bdb19]" name="vefrifyNavigationUsefulLinks" duration-ms="435" started-at="2022-06-06T15:52:07 IST" finished-at="2022-06-06T15:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vefrifyNavigationUsefulLinks -->
+        <test-method status="PASS" signature="checkNavigationDownLoad()[pri:12, instance:com.jbk.test.LoginTest@480bdb19]" name="checkNavigationDownLoad" duration-ms="738" started-at="2022-06-06T15:52:07 IST" finished-at="2022-06-06T15:52:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNavigationDownLoad -->
+        <test-method status="PASS" signature="checkNavigationLogout()[pri:13, instance:com.jbk.test.LoginTest@480bdb19]" name="checkNavigationLogout" duration-ms="437" started-at="2022-06-06T15:52:08 IST" finished-at="2022-06-06T15:52:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNavigationLogout -->
+        <test-method status="PASS" signature="driverclose()[pri:0, instance:com.jbk.test.LoginTest@480bdb19]" name="driverclose" is-config="true" duration-ms="276" started-at="2022-06-06T15:52:09 IST" finished-at="2022-06-06T15:52:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+      </class> <!-- com.jbk.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
